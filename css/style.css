@@ -1,0 +1,45 @@
+.bildruta{
+	width: 100%;
+	height: 25vh;
+	background-size:contain;
+
+	background-repeat: no-repeat;
+	background-color: black;
+
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5vh;
+
+	border-radius: 15px 50px; 
+}
+
+.jumbotron h1{
+	color: orange;
+}
+
+#cool{
+		display: block;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+body{
+background-color: black;
+}
+p{
+	color: white;
+}
+h1{
+	color: orange;
+	text-align: center;
+}
+
+.jumbotron{
+	background-color: #333333; 
+}
+
+.jumbotron p{
+	color: orange;
+}
